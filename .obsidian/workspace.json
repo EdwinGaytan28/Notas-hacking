@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Primer-Parcial/Parte 1/04-Static ain't always noise.md",
+                "file": "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Primer-Parcial/Parte 1/04-Static ain't always noise.md",
+                "file": "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Primer-Parcial/Parte 1/04-Static ain't always noise.md",
+                "file": "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Primer-Parcial/Parte 1/04-Static ain't always noise.md"
+                "file": "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md"
               }
             }
           }
@@ -160,8 +160,18 @@
   },
   "active": "e2a0837c8b6bb4c9",
   "lastOpenFiles": [
-    "PicoCTF/Primer-Parcial/Parte 3/08 - plumbing.md",
+    "PicoCTF/Retos-Web/Parte 1/02 - where are the robots.md",
+    "PicoCTF/Retos-Web/Parte 1/03 - logon.md",
+    "PicoCTF/Retos-Web/Parte 1/04 - dont-use-client-side.md",
+    "PicoCTF/Retos-Web/Parte 1/05 - picobrowser.md",
+    "PicoCTF/Retos-Web/Parte 1/06 - Client-side-again.md",
     "Retos-Bandit/plantilla.md",
+    "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md",
+    "PicoCTF/Primer-Parcial/Parte 1/04-Static ain't always noise.md",
+    "PicoCTF/Retos-Web/Parte 1",
+    "PicoCTF/Retos-Web/Sin título.md",
+    "PicoCTF/Retos-Web",
+    "PicoCTF/Primer-Parcial/Parte 3/08 - plumbing.md",
     "PicoCTF/Primer-Parcial/Parte 3/07 - Based.md",
     "PicoCTF/Primer-Parcial/Parte 3/06 - runme.py.md",
     "PicoCTF/Primer-Parcial/Parte 3/05 - PW Crack 3.md",
@@ -177,18 +187,10 @@
     "PicoCTF/Primer-Parcial/Parte 2/06 - fixme1.py.md",
     "PicoCTF/Primer-Parcial/Parte 2/05 - First Grep.md",
     "PicoCTF/Primer-Parcial/Parte 2/01 - 2Warm.md",
-    "PicoCTF/Primer-Parcial/Parte 1/04-Static ain't always noise.md",
     "PicoCTF/Primer-Parcial/Parte 1/05-Tab, Tab, Attack.md",
     "PicoCTF/Primer-Parcial/Parte 3",
     "PicoCTF/Primer-Parcial/Parte 1/Parte 3",
     "PicoCTF/Primer-Parcial/Parte 2",
-    "PicoCTF/Primer-Parcial/Parte 1/06-Magikarp Ground Mission.md",
-    "Retos-Bandit/Level 33.md",
-    "Retos-Bandit/Level 31 → Level 32.md",
-    "Retos-Bandit/Level 32 → Level 33.md",
-    "Retos-Bandit/Level 27 → Level 28.md",
-    "Sin título.md",
-    "Retos-Bandit/Level 28 → Level 29.md",
     "Retos-Bandit/Sin título",
     "PicoCTF/Primer-Parcial/Parte 1",
     "PicoCTF/Primer-Parcial",
