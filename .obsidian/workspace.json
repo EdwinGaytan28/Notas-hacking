@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2a0837c8b6bb4c9",
+            "id": "42c87a9cc8b98fec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50813a8f733f2b81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos-Bandit/plantilla.md",
+                "file": "PicoCTF/Retos-Web/Parte 2/04 - JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md",
+                "file": "PicoCTF/Retos-Web/Parte 2/04 - JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md",
+                "file": "PicoCTF/Retos-Web/Parte 2/04 - JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md"
+                "file": "PicoCTF/Retos-Web/Parte 2/04 - JaWT Scratchpad.md"
               }
             }
           }
@@ -158,15 +146,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e2a0837c8b6bb4c9",
+  "active": "42c87a9cc8b98fec",
   "lastOpenFiles": [
-    "PicoCTF/Retos-Web/Parte 1/02 - where are the robots.md",
+    "PicoCTF/Retos-Web/Parte 2/03 - Irish name repo 3.md",
+    "PicoCTF/Retos-Web/Parte 2/02 - Irish-Name-Repo 2.md",
+    "PicoCTF/Retos-Web/Parte 2/04 - JaWT Scratchpad.md",
+    "PicoCTF/Retos-Web/Parte 3/03 - Scavenger Hunt.md",
+    "PicoCTF/Retos-Web/Parte 3/02 - Cookies.md",
+    "PicoCTF/Retos-Web/Parte 3/01 - GET aHEAD.md",
+    "PicoCTF/Retos-Web/Parte 2/01 - Irish-Name-Repo 1.md",
+    "Retos-Bandit/plantilla.md",
+    "PicoCTF/Retos-Web/Parte 3",
+    "PicoCTF/Retos-Web/Parte 1/P",
+    "PicoCTF/Retos-Web/Parte 2",
     "PicoCTF/Retos-Web/Parte 1/03 - logon.md",
+    "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md",
+    "PicoCTF/Retos-Web/Parte 1/02 - where are the robots.md",
     "PicoCTF/Retos-Web/Parte 1/04 - dont-use-client-side.md",
     "PicoCTF/Retos-Web/Parte 1/05 - picobrowser.md",
     "PicoCTF/Retos-Web/Parte 1/06 - Client-side-again.md",
-    "Retos-Bandit/plantilla.md",
-    "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md",
     "PicoCTF/Primer-Parcial/Parte 1/04-Static ain't always noise.md",
     "PicoCTF/Retos-Web/Parte 1",
     "PicoCTF/Retos-Web/Sin título.md",
@@ -181,20 +179,10 @@
     "PicoCTF/Primer-Parcial/Parte 3/02 - Glitch Cat.md",
     "PicoCTF/Primer-Parcial/Parte 2/02 - Bases.md",
     "PicoCTF/Primer-Parcial/Parte 2/03 - Codebook.md",
-    "PicoCTF/Primer-Parcial/Parte 2/04 - convertme.py.md",
-    "PicoCTF/Primer-Parcial/Parte 2/08 - what's a net cat.md",
-    "PicoCTF/Primer-Parcial/Parte 2/07 - strings it.md",
-    "PicoCTF/Primer-Parcial/Parte 2/06 - fixme1.py.md",
-    "PicoCTF/Primer-Parcial/Parte 2/05 - First Grep.md",
-    "PicoCTF/Primer-Parcial/Parte 2/01 - 2Warm.md",
-    "PicoCTF/Primer-Parcial/Parte 1/05-Tab, Tab, Attack.md",
     "PicoCTF/Primer-Parcial/Parte 3",
     "PicoCTF/Primer-Parcial/Parte 1/Parte 3",
     "PicoCTF/Primer-Parcial/Parte 2",
     "Retos-Bandit/Sin título",
-    "PicoCTF/Primer-Parcial/Parte 1",
-    "PicoCTF/Primer-Parcial",
-    "PicoCTF",
-    "Retos-Bandit"
+    "PicoCTF/Primer-Parcial/Parte 1"
   ]
 }
