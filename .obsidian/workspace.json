@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "f8ea1a13a75b0bb8",
+            "id": "4a2f8ac7556dbbeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos-Forensic/Parte 2/02 - WhitePages.md",
+                "file": "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos-Forensic/Parte 2/02 - WhitePages.md",
+                "file": "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos-Forensic/Parte 2/02 - WhitePages.md",
+                "file": "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos-Forensic/Parte 2/02 - WhitePages.md"
+                "file": "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md"
               }
             }
           }
@@ -159,14 +159,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f8ea1a13a75b0bb8",
+  "active": "4a2f8ac7556dbbeb",
   "lastOpenFiles": [
+    "PicoCTF/Torneo NataLovers/02-Commitment Issues.md",
+    "PicoCTF/Torneo NataLovers/01-Super SSH.md",
+    "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md",
+    "PicoCTF/Torneo NataLovers/07 - endianness.md",
+    "PicoCTF/Torneo NataLovers/06 - binhexa.md",
+    "PicoCTF/Torneo NataLovers/plantilla.md",
+    "PicoCTF/Torneo NataLovers/05-Collaborative Development.md",
+    "PicoCTF/Torneo NataLovers/04-Blame Game.md",
+    "PicoCTF/Torneo NataLovers/03-Time Machine.md",
+    "Retos-Bandit/plantilla.md",
+    "PicoCTF/Torneo NataLovers",
+    "PicoCTF/Retos-Forensic/Parte 2/02 - WhitePages.md",
     "PicoCTF/Retos-Forensic/Parte 2/05 - shark on wire 2.md",
     "PicoCTF/Retos-Forensic/Parte 2/04 - like1000.md",
     "PicoCTF/Retos-Forensic/Parte 2/03 - c0rrupt.md",
-    "PicoCTF/Retos-Forensic/Parte 2/02 - WhitePages.md",
     "PicoCTF/Retos-Forensic/Parte 2/01 - m00nwalk.md",
-    "Retos-Bandit/plantilla.md",
     "PicoCTF/Retos-Forensic/Parte 1/02 - So Meta.md",
     "PicoCTF/Retos-Forensic/Parte 1/03 - shark on wire 1.md",
     "PicoCTF/Retos-Forensic/Parte 1",
@@ -181,21 +191,11 @@
     "PicoCTF/Retos-Web/Parte 2/03 - Irish name repo 3.md",
     "PicoCTF/Retos-Web/Parte 2/02 - Irish-Name-Repo 2.md",
     "PicoCTF/Retos-Web/Parte 3/02 - Cookies.md",
-    "PicoCTF/Retos-Web/Parte 3/01 - GET aHEAD.md",
-    "PicoCTF/Retos-Web/Parte 2/01 - Irish-Name-Repo 1.md",
     "PicoCTF/Retos-Web/Parte 3",
     "PicoCTF/Retos-Web/Parte 1/P",
     "PicoCTF/Retos-Web/Parte 2",
-    "PicoCTF/Retos-Web/Parte 1/03 - logon.md",
-    "PicoCTF/Retos-Web/Parte 1/01 - Insp3ct0r.md",
-    "PicoCTF/Retos-Web/Parte 1/02 - where are the robots.md",
-    "PicoCTF/Retos-Web/Parte 1/04 - dont-use-client-side.md",
-    "PicoCTF/Retos-Web/Parte 1/05 - picobrowser.md",
-    "PicoCTF/Retos-Web/Parte 1/06 - Client-side-again.md",
-    "PicoCTF/Primer-Parcial/Parte 1/04-Static ain't always noise.md",
     "PicoCTF/Retos-Web/Parte 1",
     "PicoCTF/Retos-Web",
-    "PicoCTF/Primer-Parcial/Parte 3",
-    "PicoCTF/Primer-Parcial/Parte 1/Parte 3"
+    "PicoCTF/Primer-Parcial/Parte 3"
   ]
 }
