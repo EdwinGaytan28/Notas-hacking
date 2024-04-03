@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Bandit/plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a2f8ac7556dbbeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md",
+                "file": "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/07 - St3g0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md",
+                "file": "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/07 - St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md",
+                "file": "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/07 - St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md"
+                "file": "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/07 - St3g0.md"
               }
             }
           }
@@ -159,43 +146,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4a2f8ac7556dbbeb",
+  "active": "42c87a9cc8b98fec",
   "lastOpenFiles": [
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/05 - Packets Primer.md",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/04 - Lookey here.md",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/03 - Enhance!.md",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/02 - Wireshark doo dooo do doo....md",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/06 - Redaction gone wrong.md",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/01 - information.md",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/07 - St3g0.md",
+    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/03 - Local Authority.md",
+    "PicoCTF/Torneo NataLovers/plantilla.md",
+    "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md",
+    "Retos-Bandit/plantilla.md",
+    "Retos-Bandit/Level 0 → Level 1.md",
+    "Sin título.md",
+    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/09 - SQL Direct.md",
+    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/08 - Secrets.md",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic",
+    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/07 - Roboto Sans.md",
+    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/06 - Power Cookie.md",
+    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/05 - Forbidden Paths.md",
+    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/04 - Search source.md",
+    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/02 - Inspect HTML.md",
+    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/01 - Includes.md",
+    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web",
+    "PicoCTF/Torneo NataLovers/06 - binhexa.md",
+    "PicoCTF/Segundo-Parcial",
+    "PicoCTF/Torneo NataLovers/07 - endianness.md",
     "PicoCTF/Torneo NataLovers/02-Commitment Issues.md",
     "PicoCTF/Torneo NataLovers/01-Super SSH.md",
-    "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md",
-    "PicoCTF/Torneo NataLovers/07 - endianness.md",
-    "PicoCTF/Torneo NataLovers/06 - binhexa.md",
-    "PicoCTF/Torneo NataLovers/plantilla.md",
     "PicoCTF/Torneo NataLovers/05-Collaborative Development.md",
-    "PicoCTF/Torneo NataLovers/04-Blame Game.md",
-    "PicoCTF/Torneo NataLovers/03-Time Machine.md",
-    "Retos-Bandit/plantilla.md",
     "PicoCTF/Torneo NataLovers",
-    "PicoCTF/Retos-Forensic/Parte 2/02 - WhitePages.md",
-    "PicoCTF/Retos-Forensic/Parte 2/05 - shark on wire 2.md",
-    "PicoCTF/Retos-Forensic/Parte 2/04 - like1000.md",
-    "PicoCTF/Retos-Forensic/Parte 2/03 - c0rrupt.md",
-    "PicoCTF/Retos-Forensic/Parte 2/01 - m00nwalk.md",
-    "PicoCTF/Retos-Forensic/Parte 1/02 - So Meta.md",
-    "PicoCTF/Retos-Forensic/Parte 1/03 - shark on wire 1.md",
     "PicoCTF/Retos-Forensic/Parte 1",
     "PicoCTF/Retos-Forensic/Parte 2",
-    "PicoCTF/Retos-Forensic/Parte 1/04 - extensions.md",
-    "PicoCTF/Retos-Forensic/Parte 1/05 - What Lies Within.md",
-    "PicoCTF/Retos-Forensic/Parte 1/01 - Glory of the Garden.md",
-    "Sin título.md",
-    "PicoCTF/Retos-Web/Parte 3/03 - Scavenger Hunt.md",
     "PicoCTF/Retos-Forensic",
-    "PicoCTF/Retos-Web/Parte 2/04 - JaWT Scratchpad.md",
-    "PicoCTF/Retos-Web/Parte 2/03 - Irish name repo 3.md",
-    "PicoCTF/Retos-Web/Parte 2/02 - Irish-Name-Repo 2.md",
-    "PicoCTF/Retos-Web/Parte 3/02 - Cookies.md",
     "PicoCTF/Retos-Web/Parte 3",
     "PicoCTF/Retos-Web/Parte 1/P",
-    "PicoCTF/Retos-Web/Parte 2",
-    "PicoCTF/Retos-Web/Parte 1",
-    "PicoCTF/Retos-Web",
-    "PicoCTF/Primer-Parcial/Parte 3"
+    "PicoCTF/Retos-Web/Parte 2"
   ]
 }
