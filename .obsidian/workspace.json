@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f03d6c793baa7a8",
+        "id": "911b59c0a50d9390",
         "type": "tabs",
         "children": [
           {
-            "id": "42c87a9cc8b98fec",
+            "id": "17a0eed5774a951d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/07 - St3g0.md",
+                "file": "PicoCTF/Retos-Crypto/Parte 1/07 - waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/07 - St3g0.md",
+                "file": "PicoCTF/Retos-Crypto/Parte 1/07 - waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/07 - St3g0.md",
+                "file": "PicoCTF/Retos-Crypto/Parte 1/07 - waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/07 - St3g0.md"
+                "file": "PicoCTF/Retos-Crypto/Parte 1/07 - waves over lambda.md"
               }
             }
           }
@@ -146,17 +146,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "42c87a9cc8b98fec",
+  "active": "17a0eed5774a951d",
   "lastOpenFiles": [
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/05 - Packets Primer.md",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/04 - Lookey here.md",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/03 - Enhance!.md",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/02 - Wireshark doo dooo do doo....md",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/06 - Redaction gone wrong.md",
+    "PicoCTF/Retos-Crypto/Parte 1/06 - Tapping.md",
+    "PicoCTF/Retos-Crypto/Parte 1/05 - la cifra de.md",
+    "PicoCTF/Retos-Crypto/Parte 1/04 - Easy 1.md",
+    "PicoCTF/Retos-Crypto/Parte 1/03 - Caesar.md",
+    "PicoCTF/Retos-Crypto/Parte 1/02 - 13.md",
+    "PicoCTF/Retos-Crypto/Parte 1/01 - The Numbers.md",
+    "PicoCTF/Retos-Crypto/Parte 1/07 - waves over lambda.md",
+    "PicoCTF/Torneo NataLovers/plantilla.md",
+    "PicoCTF/Retos-Crypto/Parte 1",
     "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/01 - information.md",
+    "PicoCTF/Retos-Crypto",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/02 - Wireshark doo dooo do doo....md",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/03 - Enhance!.md",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/04 - Lookey here.md",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/05 - Packets Primer.md",
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/06 - Redaction gone wrong.md",
     "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/07 - St3g0.md",
     "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/03 - Local Authority.md",
-    "PicoCTF/Torneo NataLovers/plantilla.md",
     "PicoCTF/Torneo NataLovers/08 - Scan Surprise.md",
     "Retos-Bandit/plantilla.md",
     "Retos-Bandit/Level 0 → Level 1.md",
@@ -168,21 +177,12 @@
     "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/06 - Power Cookie.md",
     "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/05 - Forbidden Paths.md",
     "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/04 - Search source.md",
-    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/02 - Inspect HTML.md",
-    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/01 - Includes.md",
     "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web",
-    "PicoCTF/Torneo NataLovers/06 - binhexa.md",
     "PicoCTF/Segundo-Parcial",
-    "PicoCTF/Torneo NataLovers/07 - endianness.md",
-    "PicoCTF/Torneo NataLovers/02-Commitment Issues.md",
-    "PicoCTF/Torneo NataLovers/01-Super SSH.md",
-    "PicoCTF/Torneo NataLovers/05-Collaborative Development.md",
     "PicoCTF/Torneo NataLovers",
     "PicoCTF/Retos-Forensic/Parte 1",
     "PicoCTF/Retos-Forensic/Parte 2",
     "PicoCTF/Retos-Forensic",
-    "PicoCTF/Retos-Web/Parte 3",
-    "PicoCTF/Retos-Web/Parte 1/P",
-    "PicoCTF/Retos-Web/Parte 2"
+    "PicoCTF/Retos-Web/Parte 3"
   ]
 }
