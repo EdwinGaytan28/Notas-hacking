@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "911b59c0a50d9390",
+        "id": "94d8892c3d13a6b4",
         "type": "tabs",
         "children": [
           {
-            "id": "17a0eed5774a951d",
+            "id": "61287ac8b5d70564",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos-Crypto/Parte 3/05 - ReadMyCert.md",
+                "file": "PicoCTF/Retos Reversing/Parte 1/05 - vault-door-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos-Crypto/Parte 3/05 - ReadMyCert.md",
+                "file": "PicoCTF/Retos Reversing/Parte 1/05 - vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos-Crypto/Parte 3/05 - ReadMyCert.md",
+                "file": "PicoCTF/Retos Reversing/Parte 1/05 - vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos-Crypto/Parte 3/05 - ReadMyCert.md"
+                "file": "PicoCTF/Retos Reversing/Parte 1/05 - vault-door-5.md"
               }
             }
           }
@@ -146,14 +146,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "17a0eed5774a951d",
+  "active": "61287ac8b5d70564",
   "lastOpenFiles": [
+    "PicoCTF/Retos Reversing/Parte 1/04 - vault-door-4.md",
+    "PicoCTF/Retos Reversing/Parte 1/03 - vault-door-3.md",
+    "PicoCTF/Retos Reversing/Parte 1/02 - vault-door-1.md",
+    "PicoCTF/Retos Reversing/Parte 1/01 - vault-door-training.md",
+    "PicoCTF/Retos Reversing/Parte 2/03 - asm1.md",
+    "PicoCTF/Retos Reversing/Parte 2/02 - asm2.md",
+    "PicoCTF/Retos Reversing/Parte 2/01 - asm1.md",
+    "PicoCTF/Retos Reversing/Parte 2/Sin título",
+    "PicoCTF/Retos Reversing/Parte 3",
+    "PicoCTF/Retos Reversing/Parte 2",
+    "PicoCTF/Retos Reversing/Parte 1/05 - vault-door-5.md",
+    "PicoCTF/Torneo NataLovers/plantilla.md",
+    "PicoCTF/Retos Reversing/Parte 1/05.md",
+    "PicoCTF/Retos-Crypto/Parte 3/05 - ReadMyCert.md",
+    "PicoCTF/Retos Reversing/Parte 1",
+    "PicoCTF/Retos Reversing",
     "PicoCTF/Retos-Crypto/Parte 3/02 - Pixelated.md",
     "PicoCTF/Retos-Crypto/Parte 3/03 - basic-mod1.md",
     "PicoCTF/Retos-Crypto/Parte 3/04 - HideToSee.md",
-    "PicoCTF/Retos-Crypto/Parte 3/05 - ReadMyCert.md",
     "PicoCTF/Retos-Crypto/Parte 3/01 - Mind your Ps and Qs.md",
-    "PicoCTF/Torneo NataLovers/plantilla.md",
     "README.md",
     "PicoCTF/Retos-Crypto/Parte 3",
     "Welcome.md",
@@ -167,22 +181,8 @@
     "PicoCTF/Retos-Crypto/Parte 1/04 - Easy 1.md",
     "PicoCTF/Retos-Crypto/Parte 1/03 - Caesar.md",
     "PicoCTF/Retos-Crypto/Parte 1/02 - 13.md",
-    "PicoCTF/Retos-Crypto/Parte 1/01 - The Numbers.md",
     "PicoCTF/Retos-Crypto/Parte 1",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/01 - information.md",
     "PicoCTF/Retos-Crypto",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/02 - Wireshark doo dooo do doo....md",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/03 - Enhance!.md",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/04 - Lookey here.md",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/05 - Packets Primer.md",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/06 - Redaction gone wrong.md",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic/07 - St3g0.md",
-    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web/03 - Local Authority.md",
-    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic",
-    "PicoCTF/Segundo-Parcial/Parte 1 - Retos Web",
-    "PicoCTF/Segundo-Parcial",
-    "PicoCTF/Torneo NataLovers",
-    "PicoCTF/Retos-Forensic/Parte 1",
-    "PicoCTF/Retos-Forensic/Parte 2"
+    "PicoCTF/Segundo-Parcial/Parte 2 - Retos Forensic"
   ]
 }
