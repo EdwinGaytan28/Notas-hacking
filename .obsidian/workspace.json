@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Parte 1/05 - vault-door-5.md",
+                "file": "PicoCTF/Retos Reversing/Parte 2/02 - asm2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Parte 1/05 - vault-door-5.md",
+                "file": "PicoCTF/Retos Reversing/Parte 2/02 - asm2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Parte 1/05 - vault-door-5.md",
+                "file": "PicoCTF/Retos Reversing/Parte 2/02 - asm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Parte 1/05 - vault-door-5.md"
+                "file": "PicoCTF/Retos Reversing/Parte 2/02 - asm2.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "61287ac8b5d70564",
   "lastOpenFiles": [
+    "PicoCTF/Retos Reversing/Parte 2/03 - asm1.md",
+    "PicoCTF/Retos Reversing/Parte 2/02 - asm2.md",
+    "PicoCTF/Retos Reversing/Parte 2/01 - asm1.md",
+    "PicoCTF/Retos Reversing/Parte 1/05 - vault-door-5.md",
     "PicoCTF/Retos Reversing/Parte 1/04 - vault-door-4.md",
     "PicoCTF/Retos Reversing/Parte 1/03 - vault-door-3.md",
     "PicoCTF/Retos Reversing/Parte 1/02 - vault-door-1.md",
     "PicoCTF/Retos Reversing/Parte 1/01 - vault-door-training.md",
-    "PicoCTF/Retos Reversing/Parte 2/03 - asm1.md",
-    "PicoCTF/Retos Reversing/Parte 2/02 - asm2.md",
-    "PicoCTF/Retos Reversing/Parte 2/01 - asm1.md",
     "PicoCTF/Retos Reversing/Parte 2/Sin título",
     "PicoCTF/Retos Reversing/Parte 3",
     "PicoCTF/Retos Reversing/Parte 2",
-    "PicoCTF/Retos Reversing/Parte 1/05 - vault-door-5.md",
     "PicoCTF/Torneo NataLovers/plantilla.md",
     "PicoCTF/Retos Reversing/Parte 1/05.md",
     "PicoCTF/Retos-Crypto/Parte 3/05 - ReadMyCert.md",
